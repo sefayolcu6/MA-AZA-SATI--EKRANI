@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "formödevi", "formödevi\formödevi.csproj", "{690AEE56-B692-4186-970B-2B343737433D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{690AEE56-B692-4186-970B-2B343737433D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{690AEE56-B692-4186-970B-2B343737433D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{690AEE56-B692-4186-970B-2B343737433D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{690AEE56-B692-4186-970B-2B343737433D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58CDEC96-0266-4D73-89C8-9808F07FADDC}
+	EndGlobalSection
+EndGlobal

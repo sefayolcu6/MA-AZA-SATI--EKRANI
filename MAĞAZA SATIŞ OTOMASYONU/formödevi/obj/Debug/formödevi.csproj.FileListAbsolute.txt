@@ -1,0 +1,10 @@
+C:\Users\Sefa\Desktop\formödevi\formödevi\bin\Debug\formödevi.exe.config
+C:\Users\Sefa\Desktop\formödevi\formödevi\bin\Debug\formödevi.exe
+C:\Users\Sefa\Desktop\formödevi\formödevi\bin\Debug\formödevi.pdb
+C:\Users\Sefa\Desktop\formödevi\formödevi\obj\Debug\formödevi.csprojAssemblyReference.cache
+C:\Users\Sefa\Desktop\formödevi\formödevi\obj\Debug\formödevi.Form1.resources
+C:\Users\Sefa\Desktop\formödevi\formödevi\obj\Debug\formödevi.Properties.Resources.resources
+C:\Users\Sefa\Desktop\formödevi\formödevi\obj\Debug\formödevi.csproj.GenerateResource.cache
+C:\Users\Sefa\Desktop\formödevi\formödevi\obj\Debug\formödevi.csproj.CoreCompileInputs.cache
+C:\Users\Sefa\Desktop\formödevi\formödevi\obj\Debug\formödevi.exe
+C:\Users\Sefa\Desktop\formödevi\formödevi\obj\Debug\formödevi.pdb
